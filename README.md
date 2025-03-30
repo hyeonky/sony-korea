@@ -36,7 +36,7 @@
 
 <br><br> 
 
-## 📌 주요 기능(Main Features)
+## 🚀 주요 기능(Main Features)
 ### **1. 반응형 웹 구현 (Responsive Web Design)**
 - KRDS의 breakpoints를 기준으로 반응형 웹을 제작
 - 헤더를 메인 화면에서부터 햄버거 메뉴로 사용하여, 디스플레이 화면에서 불필요하게 공간을 차지하지 않도록 제작
