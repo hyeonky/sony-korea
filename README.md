@@ -31,19 +31,12 @@
 
 
 ## 프로젝트의 정보 (Project Information)
-- 기존 사이트와 차별화된 동적 효과와 비주얼 요소를 활용하여 SONY 브랜드에 어울리는 혁신적이면서 감각적인 UI/UX를 구현하는 것에 목적을 둔 비주얼 사이트 개인 프로젝트입니다.
-- This is a visual site personal project aimed at creating an innovative and stylish UI/UX that aligns with SONY's brand, using dynamic effects and visual elements that differentiate it from the original site.
+- 이 프로젝트는 SONY 브랜드에 어울리는 혁신적이고 세련된 UI/UX를 구현하는 것을 목표로 한 리뉴얼 프로젝트입니다. 기존 사이트와 차별화된 동적 효과와 비주얼 요소를 활용하여 시각적 경험을 강조하고, SONY의 브랜드 이미지를 더욱 강하게 전달하려는 목표를 가지고 제작하였습니다.
+- This project is a redesign aimed at implementing an innovative and sophisticated UI/UX that aligns with the SONY brand. It utilizes dynamic effects and visual elements to differentiate from the original site, emphasizing the visual experience and aiming to strengthen the brand image of SONY.
 
 <br><br> 
 
-
-## 🚀 사용 기술 (Tech Stack)
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />  <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
-
-<br><br> 
-
-
-## 기능 구현 (Feature Implementation)
+## 📌 주요 기능(Main Features)
 ### **1. 반응형 웹 구현 (Responsive Web Design)**
 - KRDS의 breakpoints를 기준으로 반응형 웹을 제작
 - 헤더를 메인 화면에서부터 햄버거 메뉴로 사용하여, 디스플레이 화면에서 불필요하게 공간을 차지하지 않도록 제작
@@ -129,7 +122,10 @@
 
 <br><br> 
 
+## 🛠️ 사용 기술 (Tech Stack)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />  <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
 
+<br><br> 
 
 ## **🧑‍💻 Contact me**
  <a href="mailto:hyeon2762@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="></a>
